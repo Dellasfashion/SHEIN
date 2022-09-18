@@ -1,0 +1,26 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 17 Sep 2022 21:19:13 at https://tayanelopes.com/post/shein-e-confiavel/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt_BR, en, *" https://tayanelopes.com/post/shein-e-confiavel/ -O1 "C:\Meus Sites\SHEIN" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:19:14	Warning: 	Note: due to https://tayanelopes.com remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+21:20:17	Error: 	"No Content" (204) at link https://tayanelopes.com/detroitchicago/grapefruit.gif (from https://tayanelopes.com/post/shein-e-confiavel/)
+21:20:17	Error: 	"No Content" (204) at link https://tayanelopes.com/porpoiseant/army.gif (from https://tayanelopes.com/post/shein-e-confiavel/)
+21:20:26	Warning: 	Found for https://tayanelopes.com/post/shein-e-confiavel/?share=facebook
+21:20:26	Warning: 	File has moved from https://tayanelopes.com/post/shein-e-confiavel/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Ftayanelopes.com%2Fpost%2Fshein-e-confiavel%2F&t=SHEIN%20%C3%89%20CONFI%C3%81VEL%3F%7C%20Tudo%20o%20que%20voc%C3%AA%20PRECISA%20SABER%20em%20um%20s%C3%B3%20artigo%21
+21:20:26	Warning: 	Found for https://tayanelopes.com/post/shein-e-confiavel/?share=jetpack-whatsapp
+21:20:26	Warning: 	File has moved from https://tayanelopes.com/post/shein-e-confiavel/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=SHEIN%20%C3%89%20CONFI%C3%81VEL%3F%7C%20Tudo%20o%20que%20voc%C3%AA%20PRECISA%20SABER%20em%20um%20s%C3%B3%20artigo%21%20https%3A%2F%2Ftayanelopes.com%2Fpost%2Fshein-e-confiavel%2F
+21:20:26	Warning: 	Found for https://tayanelopes.com/post/shein-e-confiavel/?share=telegram
+21:20:26	Warning: 	File has moved from https://tayanelopes.com/post/shein-e-confiavel/?share=telegram to https://telegram.me/share/url?url=https%3A%2F%2Ftayanelopes.com%2Fpost%2Fshein-e-confiavel%2F&text=SHEIN%20%C3%89%20CONFI%C3%81VEL%3F%7C%20Tudo%20o%20que%20voc%C3%AA%20PRECISA%20SABER%20em%20um%20s%C3%B3%20artigo%21
+21:20:26	Warning: 	Found for https://tayanelopes.com/post/shein-e-confiavel/?share=twitter
+21:20:26	Warning: 	File has moved from https://tayanelopes.com/post/shein-e-confiavel/?share=twitter to https://twitter.com/intent/tweet?text=SHEIN%20%C3%89%20CONFI%C3%81VEL%3F%7C%20Tudo%20o%20que%20voc%C3%AA%20PRECISA%20SABER%20em%20um%20s%C3%B3%20artigo%21&url=https%3A%2F%2Ftayanelopes.com%2Fpost%2Fshein-e-confiavel%2F
+21:20:26	Warning: 	Found for https://tayanelopes.com/post/shein-e-confiavel/?share=linkedin
+21:20:26	Warning: 	File has moved from https://tayanelopes.com/post/shein-e-confiavel/?share=linkedin to https://www.linkedin.com/cws/share?token&isFramed=false&url=https%3A%2F%2Ftayanelopes.com%2Fpost%2Fshein-e-confiavel%2F
+21:20:26	Warning: 	Found for https://tayanelopes.com/post/shein-e-confiavel/?share=pinterest
+21:20:26	Warning: 	File has moved from https://tayanelopes.com/post/shein-e-confiavel/?share=pinterest to https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Ftayanelopes.com%2Fpost%2Fshein-e-confiavel%2F&media=https%3A%2F%2Fi0.wp.com%2Ftayanelopes.com%2Fwp-content%2Fuploads%2F2022%2F07%2Fshein-e-confiavel.webp%3Ffit%3D750%252C421%26ssl%3D1&description=SHEIN%20%C3%89%20CONFI%C3%81VEL%3F%7C%20Tudo%20o%20que%20voc%C3%AA%20PRECISA%20SABER%20em%20um%20s%C3%B3%20artigo%21
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 14 seconds : 103 links scanned, 94 files written (2425719 bytes overall) [1736636 bytes received at 23468 bytes/sec], 2134348 bytes transferred using HTTP compression in 69 files, ratio 64%, 1.0 requests per connection
+(2 errors, 13 warnings, 0 messages)

@@ -1,0 +1,13 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+tayanelopes.com	TRUE	/	FALSE	1999999999	ezoadgid_370854	-1
+tayanelopes.com	TRUE	/	FALSE	1999999999	ezosuibasgeneris-1	7cd91c4e-0c8e-4a10-4b9d-36fe77c90111
+tayanelopes.com	TRUE	/	FALSE	1999999999	SameSite	None
+tayanelopes.com	TRUE	/	FALSE	1999999999	ezoab_370854	mod13
+tayanelopes.com	TRUE	/	FALSE	1999999999	active_template::370854	pub_site.1663460355
+tayanelopes.com	TRUE	/	FALSE	1999999999	lp_370854	https://tayanelopes.com/post/shein-e-confiavel/
+tayanelopes.com	TRUE	/	FALSE	1999999999	ezovuuidtime_370854	1663460355
+tayanelopes.com	TRUE	/	FALSE	1999999999	ezovuuid_370854	1d753c98-7be6-4ded-4b47-ac84079c1fbc
+tayanelopes.com	TRUE	/	FALSE	1999999999	ezopvc_370854	1
+.quantserve.com	TRUE	/	FALSE	1999999999	mc	63266422-0be08-8a0df-dfbe0
+
